@@ -16,7 +16,7 @@ class String
   end
 
   def count_sentences
-    self.slip
+    
     counter = 0
     ary = self.split() 
     ary.each do |ele|  
